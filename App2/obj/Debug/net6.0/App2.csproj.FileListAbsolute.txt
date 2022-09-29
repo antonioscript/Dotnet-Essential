@@ -1,0 +1,15 @@
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.csproj.AssemblyReference.cache
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.AssemblyInfoInputs.cache
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.AssemblyInfo.cs
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\bin\Debug\net6.0\App2.exe
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\bin\Debug\net6.0\App2.deps.json
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\bin\Debug\net6.0\App2.runtimeconfig.json
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\bin\Debug\net6.0\App2.dll
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\bin\Debug\net6.0\App2.pdb
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.dll
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\refint\App2.dll
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.pdb
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\App2.genruntimeconfig.cache
+C:\Users\Antônio Jr\Projects\Dotnet-Essential\App2\obj\Debug\net6.0\ref\App2.dll
